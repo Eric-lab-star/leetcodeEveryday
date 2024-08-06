@@ -1,7 +1,9 @@
 package main
 
-import "leetCodeEveryday/hello"
+import (
+	ans "leetCodeEveryday/3190"
+)
 
 func main() {
-	hello.Greeting()
+	ans.Submit()
 }
