@@ -1,9 +1,7 @@
 package main
 
-import (
-	ans "leetCodeEveryday/3190"
-)
+import "fmt"
 
 func main() {
-	ans.Submit()
+	fmt.Println("Hello Algo World");
 }
